@@ -1,0 +1,64 @@
+{
+  "personal_info": {
+    "full_name": "Muhammad Adeel Arshad",
+    "email": "adeelarshad1155@gmail.com",
+    "phone": "+92-302-7997302",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "linkedin": "www.linkedin.com/in/adeel-arshad-857249424",
+    "github": "https://github.com/MuhammadAdeel107"
+  },
+  "job_preferences": {
+    "target_roles": [
+      "AI Engineer",
+      "Junior Software Engineer",
+      "Python Developer",
+      "Machine Learning Engineer",
+      "LLM / RAG Engineer",
+      "NLP Engineer",
+      "Computer Vision",
+      "AI Product Builder",
+      "Data Science"
+    ],
+    "preferred_locations": ["Lahore", "Faisalabad", "Islamabad", "Remote"],
+    "notice_period": "Immediate, or, 1 week",
+    "expected_salary_pkr": "40,000 - 120,000"
+  },
+  "education": {
+    "degree": "Bachelor of Science in Artificial Intelligence",
+    "university": "Islamia University of Bahawalpur"
+  },
+  "skills": [
+    "Python", "FastAPI", "Flask", "LangChain", "RAG","Qdrant Vector DB", "Agentic AI",
+    "Ollama", "LiveKit WebRTC", "spaCy", "NLP", "XGBoost", "Data Mining",
+    "WordPress", "Deepgram STT", "Elementor Pro", "Git", "SQL" , "Machine Learning" , "Deep Learning"
+  ],
+  "projects": [
+    {
+      "title": "Avora AI - Real-Time Voice Assistant",
+      "tech_stack": ["Python", "LiveKit", "Deepgram Nova-3", "Google Gemma", "Inworld TTS"],
+      "description": "Built a low-latency real-time conversational voice agent capable of natural voice interaction and automated task handling."
+    },
+    {
+      "title": "AI-Powered Resume Analyzer & Career Guidance",
+      "tech_stack": ["Python", "spaCy", "XGBoost", "ReportLab"],
+      "description": "Developed an NLP system that parses resumes, evaluates candidate skill gaps against job requirements, predicts career paths, and generates PDF reports."
+    },
+    {
+      "title": "Candidate Skill Gap Analysis (FYP)",
+      "tech_stack": ["Python", "NLP", "Machine Learning"],
+      "description": "Designed an automated evaluation system matching candidate profiles against industry job descriptions."
+    },
+    {
+      "title": "Production RAG API Service",
+      "tech_stack": ["FastAPI", "LangChain", "Qdrant", "Ollama", "Qwen Embeddings", "Pydantic"],
+      "description": "Built a production-ready Retrieval-Augmented Generation API with FastAPI, Qdrant vector storage, and local Qwen embeddings via Ollama."
+    },
+    {
+        "title": "Lingua Flow",
+        "tech_stack": ["Python", "Flask", "JavaScript"],
+        "description": "LinguaFlow provides a clean interface for translating text between multiple supported languages, with features such as automatic language detection, language swapping, translation history, dark mode, copy functionality, input validation, and a REST API. Features • Multi-language text translation • Automatic source language detection • Source and target language selection • Language swap functionality • Translation history using browser storage • Copy translated text • Character counter with a 5,000-character limit • Input validation • Loading and error states • Responsive user interface • Dark mode • Mobile-friendly navigation"
+    }
+  ],
+  "experience_summary": "AI Software Engineer and Freelance Developer with hands-on internship experience at Appverse Technologies and CodeAlpha, specializing in LLM pipelines, conversational voice agents, Python backend APIs, and custom WordPress development."
+}
